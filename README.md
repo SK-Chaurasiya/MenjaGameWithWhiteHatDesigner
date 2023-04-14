@@ -6,7 +6,7 @@ Using HTML, CSS and JavaScript.
 ![game](https://user-images.githubusercontent.com/97239651/194749216-bbb4679a-8dbb-45b2-b11a-faa41aba2be7.PNG)
 
 
-Demo >>> Waiting for update.
+Demo >>> https://sk-chaurasiya.github.io/MenjaGameWithWhiteHatDesigner/.
 
 Special Gift >>> https://rb.gy/5y76a
 
